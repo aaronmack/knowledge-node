@@ -24,9 +24,9 @@ cta_note:
     </span>
 ---
 
-About ours
+About us
 
 <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDgzOTE4N119
+eyJoaXN0b3J5IjpbMTA1OTg4ODEyNF19
 -->
