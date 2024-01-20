@@ -2,12 +2,12 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: Ling Jing Studio
+hero_media: icons/LingJing-logo-trace-bgr-adjust.svg
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    gradient_start: '#1bb4c3'
+    gradient_end: '#Ab64c3'
     text_color_light: true
 cta:
   url: docs/

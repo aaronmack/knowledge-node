@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 主页
     url: /
     weight: 10
-  - name: Documentation
+  - name: 文档
     url: docs/
     weight: 20
-  - name: Journey
+  - name: 历程
     url: journey/
     weight: 20
