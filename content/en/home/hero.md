@@ -10,23 +10,20 @@ design:
     gradient_end: '#Ab64c3'
     text_color_light: true
 cta:
-  url: docs/
-  label: Get Started
+  url: journey/
+  label: Journey
   icon_pack: fas
-  icon: download
+  icon: magic
 cta_alt:
   url: docs/
   label: View Documentation
 cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
+  label: 
+
 ---
 
 About us
 
-<a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTg4ODEyNF19
--->
+Our goal is happiness, inspiration, health, and harmony. Giving strength in times of depression and seeing hope in difficulties. Everything we do is driven by these.
+
+<br>
